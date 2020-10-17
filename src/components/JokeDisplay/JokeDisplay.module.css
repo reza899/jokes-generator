@@ -1,0 +1,36 @@
+.box {
+  background-color: #44bd32;
+  color: #192a56;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  width: 600px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.box button {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  background-color: #273c75;
+  border: 0;
+  color: white;
+  border-radius: 5px;
+  padding: 0.6rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: transform 0.2s ease-in;
+  align-items: center;
+}
+.box button:active {
+  transform: scale(0.9);
+}
+.box button:focus {
+  outline: none;
+}
+
+.box h2 {
+  margin-top: 0;
+}
+.text {
+  margin: 2rem;
+}

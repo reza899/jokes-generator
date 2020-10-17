@@ -1,0 +1,16 @@
+.inputSelect {
+  font-family: inherit;
+  outline: none;
+  max-width: 100%;
+  width: 150px;
+  color: blue;
+  height: 5vh;
+  line-height: 1.3;
+  font-weight: 800;
+  padding: 0.6em 1.4em 0.5em 0.8em;
+}
+
+.inputSelectArea {
+  padding: 12px;
+  display: block;
+}
