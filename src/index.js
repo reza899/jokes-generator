@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={process.env.homepage}>
+    <Router basename="/jokes-generator/">
       <App />
     </Router>
   </React.StrictMode>,

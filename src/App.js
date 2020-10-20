@@ -17,7 +17,7 @@ function App() {
             <li>
               <Link
                 to={{
-                  pathname: "category",
+                  pathname: "/category",
                 }}
               >
                 Categories
