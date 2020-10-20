@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jokes-generator/static/css/main.d81dc2b7.chunk.css",
+    "main.css": "/jokes-generator/static/css/main.a790171c.chunk.css",
     "main.js": "/jokes-generator/static/js/main.0b76ffa9.chunk.js",
     "main.js.map": "/jokes-generator/static/js/main.0b76ffa9.chunk.js.map",
     "runtime-main.js": "/jokes-generator/static/js/runtime-main.4ce8a571.js",
@@ -8,15 +8,15 @@
     "static/js/2.5f70c731.chunk.js": "/jokes-generator/static/js/2.5f70c731.chunk.js",
     "static/js/2.5f70c731.chunk.js.map": "/jokes-generator/static/js/2.5f70c731.chunk.js.map",
     "index.html": "/jokes-generator/index.html",
-    "precache-manifest.b7e186d7064d71b7b84b6df50ee5aebb.js": "/jokes-generator/precache-manifest.b7e186d7064d71b7b84b6df50ee5aebb.js",
+    "precache-manifest.f59f515a5348d4a3df7d615a319fec32.js": "/jokes-generator/precache-manifest.f59f515a5348d4a3df7d615a319fec32.js",
     "service-worker.js": "/jokes-generator/service-worker.js",
-    "static/css/main.d81dc2b7.chunk.css.map": "/jokes-generator/static/css/main.d81dc2b7.chunk.css.map",
+    "static/css/main.a790171c.chunk.css.map": "/jokes-generator/static/css/main.a790171c.chunk.css.map",
     "static/js/2.5f70c731.chunk.js.LICENSE.txt": "/jokes-generator/static/js/2.5f70c731.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ce8a571.js",
     "static/js/2.5f70c731.chunk.js",
-    "static/css/main.d81dc2b7.chunk.css",
+    "static/css/main.a790171c.chunk.css",
     "static/js/main.0b76ffa9.chunk.js"
   ]
 }
